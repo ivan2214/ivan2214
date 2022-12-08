@@ -2,7 +2,7 @@
 
 </hr>
 </hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivan2214" alt="ivan2214" /></a> </p>
+
 </hr>
 <h3 align="left">Connect with me:</h3>
 </hr>
