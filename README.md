@@ -81,10 +81,9 @@
 </hr>
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivan2214&show_icons=true&locale=en" alt="ivan2214" />
-</p>
 
 </hr>
-<p>
+
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivan2214&" alt="ivan2214" />
 </p>
 
