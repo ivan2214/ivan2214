@@ -76,9 +76,7 @@
 
 </hr>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivan2214&show_icons=true&locale=en&layout=compact" alt="ivan2214" />
-</p>
+
 
 </hr>
 <p>
