@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Ivan Bongiovanni</h1>
+
 </hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan2214&label=Profile%20views&color=0e75b6&style=flat" alt="ivan2214" /> </p>
 </hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivan2214" alt="ivan2214" /></a> </p>
 </hr>
