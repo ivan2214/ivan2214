@@ -1,4 +1,5 @@
-
+![Profile views](https://gpvc.arturio.dev/ivan2214)  
+</hr>
 <section align="left">
 
 ![Header](./assets/github-header-image.png)
@@ -29,10 +30,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bongiovanni-ivan45" height="30" width="40" />
   </a>
 </p>
-</hr>
-</hr>
-</hr>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivan2214&show_icons=true&locale=en" alt="ivan2214" />
-</p>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan2214&show_icons=true)  
+
 
