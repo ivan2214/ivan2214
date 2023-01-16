@@ -35,6 +35,6 @@ Tengo como objetivo adquirir experiencia, aprender de grandes profesionales, asu
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan2214&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan2214&show_icons=true&theme=radical)  
 
 
