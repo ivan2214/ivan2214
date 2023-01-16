@@ -1,4 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/ivan2214)  
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivan2214/ivan2214?color=yellow&logo=github&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ivan2214/ivan2214?color=yellow&style=for-the-badge)
 </hr>
 <section align="left">
 
