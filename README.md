@@ -1,7 +1,9 @@
-<h1 align="center">Hola 👋, Soy Ivan Bongiovanni</h1>
 
-</hr>
-</hr>
+<section>
+
+![Header](./assets/github-header-image.png)
+
+</section>
 
 </hr>
 <h3 align="left">Connect with me:</h3>
