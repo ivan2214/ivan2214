@@ -28,7 +28,7 @@ Tengo como objetivo adquirir experiencia, aprender de grandes profesionales, asu
   <a href="https://codepen.io/ivan2214" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ivan2214" height="30" width="40" />
   </a>
-<a href="https://twitter.com/ivanbongiovann3" target="blank">
+<a href="https://twitter.com/bongiovanniDev" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanbongiovann3" height="30" width="40" />
   </a>
 <a href="https://linkedin.com/in/linkedin.com/in/bongiovanni-ivan45" target="blank">
