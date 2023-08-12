@@ -11,7 +11,7 @@
 #### Soy un Desarrollador FullStack responsable y eficiente ✔.
 Tengo como objetivo adquirir experiencia, aprender de grandes profesionales, asumir nuevas responsabilidades y crecer como desarrollador.
 
-- 🌱 Estoy aprendiendo MongoDb, GraphQL, Apolo 
+- 🌱 Estoy aprendiendo Sass, Nextjs, Prisma 
 - 👯 Quiero colaborar con Proyectos que me brinden experiencias y ayuden a crecer como Desarrollador 
 - 📫 Cómo contactarme: bongiovanniivan12@gmail.com 
 
