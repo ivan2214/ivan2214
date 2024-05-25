@@ -1,3 +1,5 @@
+![Header](./redes/banner-linkedin.png)
+
 #### Soy un Desarrollador FullStack responsable y eficiente ✔
 Desarrollador de software enfocado en JavaScript y TypeScript. Principalmente con experiencia trabajando con Nextjs, Tailwind CSS, Prisma ORM, Docker y Postgresql.
 
