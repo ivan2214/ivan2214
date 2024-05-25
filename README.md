@@ -1,4 +1,4 @@
-![Header](./assets/github-header-image.png)
+![Header](./assets/banner-linkedin.png)
 
 </section>
 
