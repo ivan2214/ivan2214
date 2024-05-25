@@ -9,15 +9,13 @@
 </section>
 
 #### Soy un Desarrollador FullStack responsable y eficiente ✔.
-Tengo como objetivo adquirir experiencia, aprender de grandes profesionales, asumir nuevas responsabilidades y crecer como desarrollador.
+Desarrollador de software front-end enfocado en JavaScript y TypeScript. Principalmente con experiencia trabajando con Nextjs, Prisma ORM y Tailwind CSS
 
-- 🌱 Estoy aprendiendo Sass, Nextjs, Prisma 
-- 👯 Quiero colaborar con Proyectos que me brinden experiencias y ayuden a crecer como Desarrollador 
 - 📫 Cómo contactarme: bongiovanniivan12@gmail.com 
 
 <h2 align="left">Tecnologias con las que trabajo !</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,postgres,mongodb,vite,materialui,tailwind,jest,js,html,css,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,astro,nextjs,tailwindcss,prisma,postgresql,mongodb,html,css,docker,vercel,git,github,nodejs,express,nestjs)](https://skillicons.dev)
 
 </hr>
 <h2 align="left">Conecta conmigo !</h2>
@@ -29,7 +27,7 @@ Tengo como objetivo adquirir experiencia, aprender de grandes profesionales, asu
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ivan2214" height="30" width="40" />
   </a>
 <a href="https://twitter.com/bongiovanniDev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanbongiovann3" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bongiovanniDev" height="30" width="40" />
   </a>
 <a href="https://linkedin.com/in/linkedin.com/in/bongiovanni-ivan45" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bongiovanni-ivan45" height="30" width="40" />
