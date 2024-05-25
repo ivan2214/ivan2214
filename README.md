@@ -11,22 +11,22 @@ Desarrollador de software enfocado en JavaScript y TypeScript. Principalmente co
 <h2 align="left">Conecta conmigo !</h2>
 <hr>
 <p align="left">
-  <a href="https://twitter.com/bongiovanniDev" target="blank">
+  <a href="https://twitter.com/bongiovanniDev" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bongiovanniDev" height="30" width="40" />
   </a>
   
-  <a href="https://linkedin.com/in/linkedin.com/in/bongiovanni-ivan45" target="blank">
+  <a href="https://linkedin.com/in/linkedin.com/in/bongiovanni-ivan45" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bongiovanni-ivan45" height="30" width="40" />
   </a>
   
 </p>
 <p align="left">
   
-  <a href="mailto:ivanbongiovanni09@gmail.com">
+  <a href="mailto:ivanbongiovanni09@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="ivanbongiovanni09@gmail.com" height="30" width="40" style="height: 30px; width: 40px;" />
   </a>
   
-  <a href="https://discord.com/users/601604373822308375" target="blank">
+  <a href="https://discord.com/users/601604373822308375" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="40" width="50" />
   </a>
 </p>
