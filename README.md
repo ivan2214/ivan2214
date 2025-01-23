@@ -15,9 +15,73 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/bongiovanni-ivan45/) | 🌐 [Portafolio](https://ivanbong.vercel.app/) | 📫 [Email](bongiovanniivan12@gmail.ccom)  
 
 
-<h2 align="left">Tecnologias con las que trabajo !</h2>
+<p align="center">
+ <h2> Tecnologías que conozco 👨🏻‍💻 </h2>
+</p>
+<!--tech stack icons-->
+<p align="center">
+  <h2>:star2: Front End </h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,nextjs,vercel&perline=6" />
+  </a>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,astro,nextjs,tailwindcss,prisma,postgresql,mongodb,html,css,docker,vercel,git,github,nodejs,express,nestjs)](https://skillicons.dev)
+  <h2>:zap: Back End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,docker&perline=6" />
+  </a>
+
+  <h2>:wrench: Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=6" />
+  </a>
+</p>
+<br>
 
 
-![Metrics](https://metrics.lecoq.io/ivan2214?template=classic&base.hireable=true&isocalendar=1&languages=1&lines=1&activity=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FBuenos_Aires&config.octicon=true)
+<!------------------------->
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="100%" align="center">
+
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ivan2214&theme=tokyonight&show_icons=true&count_private=true" />
+  <br></br>
+<p align="center"><a href="https://github.com/ivan2214"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan2214&theme=tokyonight&layout=compact"></a></p> 
+  <br></br>
+   <a href="https://github.com/ivan2214"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan2214&theme=tokyonight"/>
+    <br></br>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivan2214&radius=16&theme=tokyonight&area=true&order=5" height="250" alt="activity-graph graph"/>
+  </div>
+</td>
+
+
+
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+  <br></br>
+<div align=center>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ivan2214&theme=juicyfresh" /><a>
+</p>
+</div>
+<!--- trophy (start) -->
+
+</p>       
+<br/>
+
+   >   
+<br/>
+
+
+###
+
+<img src="https://raw.githubusercontent.com/ivan2214/ivan2214/output/snake.svg" alt="Snake animation" />
+
+###
