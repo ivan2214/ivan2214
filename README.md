@@ -82,6 +82,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ivan2214/ivan2214/output/snake.svg" alt="Snake animation" />
+<img src="https://ivan2214.github.io/ivan2214/snake.svg" alt="Snake animation" />
 
 ###
